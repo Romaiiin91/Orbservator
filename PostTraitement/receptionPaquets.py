@@ -4,7 +4,7 @@ import time
 ip = "172.20.10.11"
 port = 5000
 txtRecu =" "
-fichier = open("log_"+time.strftime("%d-%m-%Y--%Hh%Mm%S")+".txt", "w")
+fichier = open("./log_"+time.strftime("%d-%m-%Y--%Hh%Mm%S")+".txt", "w")
 
 
 # Create socket for server

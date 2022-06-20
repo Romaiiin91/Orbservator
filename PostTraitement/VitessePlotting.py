@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-filename="log_11-06-2022--19h47m23.txt"
+filename="log_20-06-2022--14h29m23.txt"
 
 fichier = open(filename, "r")
 lignes = fichier.readlines()
